@@ -2,7 +2,7 @@
 
 # Intro
 
-Here you'll find a java mvn based implementation of `Mars Rover Kata` according to given requirements.
+This is  a java mvn based implementation of `Mars Rover Kata`.
 
 # How to
 
